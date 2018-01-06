@@ -8,36 +8,45 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 
 # Pre-Bitcoin
 
-Smart contract essays by Nick Szabo
+* [A formal language for analyzing contracts](http://nakamotoinstitute.org/contract-language/) - an essay by Nick Szabo
 
 # Bitcoin
 
-* Bitcoin scripting language
-* Ivy
-* Rootstock?
+* [Bitcoin Script](https://en.bitcoin.it/wiki/Script) - a stack-based non Turing complete Forth-like language used to write script that determine whether a UTXO can be spent.
+* [Ivy](https://github.com/ivy-lang/ivy-bitcoin) - a non Turing complete higher-level language that compiles to Bitcoin Script ([announcement](https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a))
+* [Simplicity](https://blockstream.com/2017/10/30/simplicity.html) - a typed functional programming language utilizing combinators [blog post](https://medium.com/@danrobinson/understanding-simplicity-implementing-a-smart-contract-language-in-30-lines-of-haskell-827521bfeb4d), [another one](https://iohk.io/blog/simplicity-and-michelson/)
+* [Rootstock](https://www.rsk.co/) - do they use their own language?
+
 
 # Ethereum
 
-* EVM bytecode
-* Solidity
-* LLL - [series of blog posts](http://blog.syrinx.net/)
-* Viper - [formal tool from RV](https://runtimeverification.com/blog/?p=617)
-* Bamboo
-* Serpent
-* Mutan
-* Idris
+* Ethereum bytecode - a Turing complete stack-based languge executed by the Ethereum virtual machine (EVM)
+* [Solidity](https://solidity.readthedocs.io/en/develop/) - a high-level imperative statically typed language compiled to EVM ([docs](https://solidity.readthedocs.io/en/develop/))
+* LLL - a "low-level Lisp-like language" compiled to EVM bytecode ([blog post](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23), [series of blog posts](http://blog.syrinx.net/))
+* [Viper](https://github.com/ethereum/vyper) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617))
+* [Bamboo](https://github.com/pirapira/bamboo)
+* [functional-solidity-language](https://github.com/raineorshine/functional-solidity-language) - pretty much self-descriptive :)
+* [eWASM](https://github.com/ewasm) - a restricted subset of [WebAssembly](http://webassembly.org/) for Ethereum contracts
+* Serpent - a Python-like high-level language compiled to EVM (deprecated due to [security issues with the compiler](https://blog.zeppelin.solutions/serpent-compiler-audit-3095d1257929))
+* Mutan - a C-like language compiled to EVM (deprecated)
+* [Idris](https://www.idris-lang.org/) - a pure functional language with dependent types; [Pettersson and Edström](https://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf) used it to write contracts that compile to EVM via Serpent
+
 
 ## DSLs
 
-* Findel
-* http://hiperfit.dk
-* Zokrates
+* [Findel](https://github.com/cryptolu/findel) - a non Turing complete financial DSL inspired by a [S.P.Jones' work](https://www.microsoft.com/en-us/research/publication/composing-contracts-an-adventure-in-financial-engineering/)
+* the language from [the paper](https://link.springer.com/article/10.1007/s12599-017-0507-z) by Egelund-Müller et al
+
 
 # Other blockchains
 
-* [Michelson](http://www.michelson-lang.com/)
-* Plutus
-* Rholang
-* [Simplicity](https://blockstream.com/2017/10/30/simplicity.html) - [blog post](https://medium.com/@danrobinson/understanding-simplicity-implementing-a-smart-contract-language-in-30-lines-of-haskell-827521bfeb4d), [another one](https://iohk.io/blog/simplicity-and-michelson/)
-* [Liquidity](http://www.liquidity-lang.org/)
-* [Obsidian](https://resources.sei.cmu.edu/asset_files/Poster/2017_020_001_506446.pdf)
+* [Michelson](http://www.michelson-lang.com/) - a stack based and strongly typed domain-specific language (Tezos)
+* [Liquidity](http://www.liquidity-lang.org/) - a high-level typed smart-contract language that strictly complies to Michelson security restrictions (Tezos)
+* [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano)
+* [Rholang](https://rholang.rchain.coop/) - a reflective higher-order process calculus language (RChain)
+* [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
+
+
+# Other links
+
+* https://github.com/pirapira/fp-ethereum - a collection of links related to function programming for Ethereum
