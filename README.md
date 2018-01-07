@@ -32,6 +32,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Idris](https://www.idris-lang.org/) - a pure functional language with dependent types; [Pettersson and Edström](https://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf) used it to write contracts that compile to EVM via Serpent
 * [JULIA](https://solidity.readthedocs.io/en/develop/julia.html) (IULIA?) - an intermediate low-level language ([blog post](https://medium.com/@chriseth/writing-smart-contracts-in-iulia-2a5ba737c7f1))
 * [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e) - "a mechanical smart contract language"
+* [Pyramid](https://github.com/MichaelBurge/pyramid-scheme) - An EVM backend for SICP Scheme
 
 
 ## DSLs
