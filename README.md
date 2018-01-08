@@ -53,3 +53,4 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 # Other links
 
 * https://github.com/pirapira/fp-ethereum - a collection of links related to function programming for Ethereum
+* [Smart Contract Languages Development to Follow](https://blog.comae.io/smart-contract-languages-development-to-follow-992e30774b39) - a post by Matt Suiche, Comae (Dec 2017)
