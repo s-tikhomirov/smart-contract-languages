@@ -48,7 +48,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano)
 * [Rholang](https://rholang.rchain.coop/) - a reflective higher-order process calculus language (RChain)
 * [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
-
+* [DAML](http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions)
 
 # Other links
 
