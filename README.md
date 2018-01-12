@@ -1,6 +1,6 @@
 # Overview
 
-This is a curated collection of resources on secialized programming languages executed by decentralized peer-to-peer networks, also known as blockchains.
+This is a curated collection of resources on specialized programming languages executed by decentralized peer-to-peer networks, also known as blockchains.
 
 Let us define a smart contract, or simply contract, as a piece of code created by a blockchain user and executed by a blockchain node. A smart contract language (SCL) is a programming language that is either used to write a smart contract directly, or is compiled to it.
 
@@ -20,7 +20,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 
 # Ethereum
 
-* Ethereum bytecode - a Turing complete stack-based languge executed by the Ethereum virtual machine (EVM)
+* Ethereum bytecode - a Turing complete stack-based language executed by the Ethereum virtual machine (EVM)
 * [Solidity](https://solidity.readthedocs.io/en/develop/) - a high-level imperative statically typed language compiled to EVM ([docs](https://solidity.readthedocs.io/en/develop/))
 * LLL - a "low-level Lisp-like language" compiled to EVM bytecode ([blog post](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23), [series of blog posts](http://blog.syrinx.net/))
 * [Viper](https://github.com/ethereum/vyper) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617))
