@@ -9,6 +9,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 # Pre-Bitcoin
 
 * [A formal language for analyzing contracts](http://nakamotoinstitute.org/contract-language/) - an essay by Nick Szabo
+* [E](http://www.erights.org/) - referenced by Szabo
 
 # Bitcoin
 
