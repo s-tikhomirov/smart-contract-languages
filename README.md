@@ -17,6 +17,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin) - a non Turing complete higher-level language that compiles to Bitcoin Script ([announcement](https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a))
 * [Simplicity](https://blockstream.com/2017/10/30/simplicity.html) - a typed functional programming language utilizing combinators [blog post](https://medium.com/@danrobinson/understanding-simplicity-implementing-a-smart-contract-language-in-30-lines-of-haskell-827521bfeb4d), [another one](https://iohk.io/blog/simplicity-and-michelson/)
 * [Rootstock](https://www.rsk.co/) - do they use their own language?
+* [BitML](https://eprint.iacr.org/2018/122) - a process calculus based language, compiles to Bitcoin script
 
 
 # Ethereum
