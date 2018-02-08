@@ -54,6 +54,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
 * [DAML](http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions)
 * [Qtum smart contract language (QSCL)](https://qtum.org/uploads/files/a2772efe4dc8ed1100319c6480195fb1.pdf) - no details, also mentioned in an [article](https://bitcoinmagazine.com/articles/qtum-forges-ahead-development-its-x86-virtual-machine-and-expanded-network/)
+* [Simvolio](https://apla.io/)
 
 # Other links
 
