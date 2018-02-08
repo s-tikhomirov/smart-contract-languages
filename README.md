@@ -35,6 +35,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [JULIA](https://solidity.readthedocs.io/en/develop/julia.html) (IULIA?) - an intermediate low-level language ([blog post](https://medium.com/@chriseth/writing-smart-contracts-in-iulia-2a5ba737c7f1))
 * [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e) - "a mechanical smart contract language"
 * [Pyramid](https://github.com/MichaelBurge/pyramid-scheme) - An EVM backend for SICP Scheme
+* [L4](https://youtu.be/Ufy8oM-Ou90) - a language "based on deontic modal logic", presented at Devcon 2 (Sep 2016)
 
 
 ## DSLs
