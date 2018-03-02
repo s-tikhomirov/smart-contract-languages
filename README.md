@@ -36,6 +36,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e) - "a mechanical smart contract language"
 * [Pyramid](https://github.com/MichaelBurge/pyramid-scheme) - An EVM backend for SICP Scheme
 * [L4](https://youtu.be/Ufy8oM-Ou90) - a language "based on deontic modal logic", presented at Devcon 2 (Sep 2016)
+* [SolidityX](https://solidityx.org/) - a typed-superset of Solidity
 
 
 ## DSLs
