@@ -44,6 +44,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Findel](https://github.com/cryptolu/findel) - a non Turing complete financial DSL inspired by a [S.P.Jones' work](https://www.microsoft.com/en-us/research/publication/composing-contracts-an-adventure-in-financial-engineering/)
 * the language from [the paper](https://link.springer.com/article/10.1007/s12599-017-0507-z) by Egelund-Müller et al
 * [Chorus](https://firmo.network/) - a financial contractual markup language by Firmo network
+* [ADICO](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2426572/Frantz2016_Smart_Contracts-DSL.pdf?sequence=3&isAllowed=y) - a domain-specific language to support the contract modeling process
 
 
 # Other blockchains
