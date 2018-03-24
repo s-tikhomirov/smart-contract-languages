@@ -51,7 +51,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 
 * [Michelson](http://www.michelson-lang.com/) - a stack based and strongly typed domain-specific language (Tezos)
 * [Liquidity](http://www.liquidity-lang.org/) - a high-level typed smart-contract language that strictly complies to Michelson security restrictions (Tezos)
-* [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano)
+* [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano); compiles to Plutus Core ([video](https://youtu.be/IqA-mI2olFA)) 
 * [Rholang](https://rholang.rchain.coop/) - a reflective higher-order process calculus language (RChain)
 * [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
 * [DAML](http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions)
@@ -61,6 +61,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Waves contract language](https://github.com/wavesplatform/Waves/wiki/Waves-Contracts-Language-Description) (Waves)
 * [Skilla](https://themerkle.com/what-is-scilla/) - an intermediate level language for verified smart contracts
 * [TxVM](https://github.com/chain/txvm) (Chain)
+* [IELE](https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain)
 
 # Other links
 
