@@ -25,7 +25,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * Ethereum bytecode - a Turing complete stack-based language executed by the Ethereum virtual machine (EVM)
 * [Solidity](https://solidity.readthedocs.io/en/develop/) - a high-level imperative statically typed language compiled to EVM ([docs](https://solidity.readthedocs.io/en/develop/))
 * LLL - a "low-level Lisp-like language" compiled to EVM bytecode ([blog post](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23), [series of blog posts](http://blog.syrinx.net/))
-* [Viper](https://github.com/ethereum/vyper) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617))
+* [Vyper](https://github.com/ethereum/vyper) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617))
 * [Bamboo](https://github.com/pirapira/bamboo) - a high-level "formal-verification-friendly" language compiled to EVM
 * [functional-solidity-language](https://github.com/raineorshine/functional-solidity-language) - pretty much self-descriptive :)
 * [eWASM](https://github.com/ewasm) - a restricted subset of [WebAssembly](http://webassembly.org/) for Ethereum contracts
