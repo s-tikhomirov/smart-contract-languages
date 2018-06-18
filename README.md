@@ -62,6 +62,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Skilla](https://themerkle.com/what-is-scilla/) - an intermediate level language for verified smart contracts
 * [TxVM](https://github.com/chain/txvm) (Chain)
 * [IELE](https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain)
+* [Pact](http://kadena.io/docs/Kadena-PactWhitepaper.pdf) (Kadena)
 
 # Other links
 
