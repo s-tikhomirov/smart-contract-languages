@@ -63,6 +63,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [TxVM](https://github.com/chain/txvm) (Chain)
 * [IELE](https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain)
 * [Pact](http://kadena.io/docs/Kadena-PactWhitepaper.pdf) (Kadena)
+* [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) (Waves)
 
 # Other links
 
