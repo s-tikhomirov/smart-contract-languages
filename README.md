@@ -61,7 +61,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Simvolio](https://apla.io/)
 * [Marlowe](https://twitter.com/IOHK_Charles/status/963837766957137921) (Cardano)
 * [Waves contract language](https://github.com/wavesplatform/Waves/wiki/Waves-Contracts-Language-Description) (Waves)
-* [Scilla](https://zilliqa.com/resources.html#smart-contract) - an intermediate level language for verified smart contracts
+* [Scilla](https://scilla-lang.org) - an intermediate level language for verified smart contracts (Zilliqa)
 * [TxVM](https://github.com/chain/txvm) (Chain)
 * [IELE](https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain)
 * [Pact](http://kadena.io/docs/Kadena-PactWhitepaper.pdf) (Kadena)
