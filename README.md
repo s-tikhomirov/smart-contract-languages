@@ -67,6 +67,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Pact](http://kadena.io/docs/Kadena-PactWhitepaper.pdf) (Kadena)
 * [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) (Waves)
 * [Ledger Design Language](https://eprint.iacr.org/2018/416) - a modeling language for describing public ledgers
+* [Sigma](https://ergoplatform.org/faq.html) (Ergo)
 
 # Other links
 
