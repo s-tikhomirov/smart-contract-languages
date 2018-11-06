@@ -32,13 +32,15 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * Serpent - a Python-like high-level language compiled to EVM (deprecated due to [security issues with the compiler](https://blog.zeppelin.solutions/serpent-compiler-audit-3095d1257929))
 * Mutan - a C-like language compiled to EVM (deprecated)
 * [Idris](https://www.idris-lang.org/) - a pure functional language with dependent types; [Pettersson and Edström](https://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf) used it to write contracts that compile to EVM via Serpent
-* [JULIA](https://solidity.readthedocs.io/en/develop/julia.html) (IULIA?) - an intermediate low-level language ([blog post](https://medium.com/@chriseth/writing-smart-contracts-in-iulia-2a5ba737c7f1))
+* [Yul](https://solidity.readthedocs.io/en/latest/yul.html) (ex JULIA, ex IULIA) - an intermediate low-level language ([blog post](https://medium.com/@chriseth/writing-smart-contracts-in-iulia-2a5ba737c7f1))
 * [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e) - "a mechanical smart contract language"
 * [Pyramid](https://github.com/MichaelBurge/pyramid-scheme) - An EVM backend for SICP Scheme
 * [L4](https://youtu.be/Ufy8oM-Ou90) - a language "based on deontic modal logic", presented at Devcon 2 (Sep 2016)
 * [SolidityX](https://solidityx.org/) - a typed-superset of Solidity
 * [Flint](https://github.com/flintlang/flint)
 * [Lolisa](https://arxiv.org/abs/1803.09885) (subset of Solidity)
+* [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs. Formality can be compiled to the EVM.
+* [Logikon](https://github.com/logikon-lang/logikon) - an experimental language for smart contracts.
 
 
 ## DSLs
