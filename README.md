@@ -39,8 +39,8 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [SolidityX](https://solidityx.org/) - a typed-superset of Solidity
 * [Flint](https://github.com/flintlang/flint)
 * [Lolisa](https://arxiv.org/abs/1803.09885) (subset of Solidity)
-* [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs. Formality can be compiled to the EVM.
-* [Logikon](https://github.com/logikon-lang/logikon) - an experimental language for smart contracts.
+* [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs
+* [Logikon](https://github.com/logikon-lang/logikon) - an experimental language for smart contracts
 
 
 ## DSLs
