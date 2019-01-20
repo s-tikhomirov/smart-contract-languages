@@ -70,6 +70,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) (Waves)
 * [Ledger Design Language](https://eprint.iacr.org/2018/416) - a modeling language for describing public ledgers
 * [Sigma-State](https://github.com/ScorexFoundation/sigmastate-interpreter) (Ergo)
+* [fi](https://github.com/TezTech/fi) (Tezos)
 
 # Other links
 
