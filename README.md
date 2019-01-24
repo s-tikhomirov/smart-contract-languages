@@ -55,21 +55,21 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 
 * [Michelson](http://www.michelson-lang.com/) - a stack based and strongly typed domain-specific language (Tezos)
 * [Liquidity](http://www.liquidity-lang.org/) - a high-level typed smart-contract language that strictly complies to Michelson security restrictions (Tezos)
+* [fi](https://github.com/TezTech/fi) (Tezos)
 * [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano); compiles to Plutus Core ([video](https://youtu.be/IqA-mI2olFA)) 
+* [Marlowe](https://twitter.com/IOHK_Charles/status/963837766957137921) (Cardano)
 * [Rholang](https://rholang.rchain.coop/) - a reflective higher-order process calculus language (RChain)
 * [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
 * [DAML](http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions)
-* [Simvolio](https://apla.io/)
-* [Marlowe](https://twitter.com/IOHK_Charles/status/963837766957137921) (Cardano)
+* [Simvolio](https://apla.io/) (Apla blockchain platform)
 * [Waves contract language](https://github.com/wavesplatform/Waves/wiki/Waves-Contracts-Language-Description) (Waves)
+* [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) (Waves)
 * [Scilla](https://scilla-lang.org) - an intermediate level language for verified smart contracts (Zilliqa)
 * [TxVM](https://github.com/chain/txvm) (Chain)
 * [IELE](https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain)
 * [Pact](http://kadena.io/docs/Kadena-PactWhitepaper.pdf) (Kadena)
-* [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) (Waves)
 * [Ledger Design Language](https://eprint.iacr.org/2018/416) - a modeling language for describing public ledgers
 * [Sigma-State](https://github.com/ScorexFoundation/sigmastate-interpreter) (Ergo)
-* [fi](https://github.com/TezTech/fi) (Tezos)
 
 # Other links
 
