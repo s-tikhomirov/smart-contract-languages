@@ -41,6 +41,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Lolisa](https://arxiv.org/abs/1803.09885) (subset of Solidity)
 * [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs
 * [Logikon](https://github.com/logikon-lang/logikon) - an experimental language for smart contracts
+* [Huff](https://github.com/AztecProtocol/huff) - an efficient low-level language with macros
 
 
 ## DSLs
