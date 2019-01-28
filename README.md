@@ -70,6 +70,8 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Pact](http://kadena.io/docs/Kadena-PactWhitepaper.pdf) (Kadena)
 * [Ledger Design Language](https://eprint.iacr.org/2018/416) - a modeling language for describing public ledgers
 * [Sigma-State](https://github.com/ScorexFoundation/sigmastate-interpreter) (Ergo)
+* [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - a strongly typed language in the ML family (Æternity)
+* [Varna](https://github.com/aeternity/protocol/blob/master/contracts/varna.md) - a non Turing complete high-level language (Æternity)
 
 # Other links
 
