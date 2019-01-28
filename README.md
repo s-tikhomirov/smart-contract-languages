@@ -63,8 +63,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
 * [DAML](http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions)
 * [Simvolio](https://apla.io/) (Apla blockchain platform)
-* [Waves contract language](https://github.com/wavesplatform/Waves/wiki/Waves-Contracts-Language-Description) (Waves)
-* [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) (Waves)
+* [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) - a non Turing complete [language](https://docs.wavesplatform.com/en/technical-details/ride-language.html) infulenced by Scala and F# (Waves)
 * [Scilla](https://scilla-lang.org) - an intermediate level language for verified smart contracts (Zilliqa)
 * [TxVM](https://github.com/chain/txvm) (Chain)
 * [IELE](https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain)
