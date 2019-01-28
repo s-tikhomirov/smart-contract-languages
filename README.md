@@ -71,6 +71,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Sigma-State](https://github.com/ScorexFoundation/sigmastate-interpreter) (Ergo)
 * [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - a strongly typed language in the ML family (Æternity)
 * [Varna](https://github.com/aeternity/protocol/blob/master/contracts/varna.md) - a non Turing complete high-level language (Æternity)
+* [Rholang](https://github.com/rchain/rchain/tree/dev/rholang) - a concurrent programming language, with a focus on message-passing and formally modeled by the ρ-calculus (RChain)
 
 # Other links
 
