@@ -58,7 +58,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [fi](https://github.com/TezTech/fi) (Tezos)
 * [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano); compiles to Plutus Core ([video](https://youtu.be/IqA-mI2olFA)) 
 * [Marlowe](https://twitter.com/IOHK_Charles/status/963837766957137921) (Cardano)
-* [Rholang](https://rholang.rchain.coop/) - a reflective higher-order process calculus language (RChain)
+* [Rholang](https://github.com/rchain/rchain/tree/dev/rholang) - a reflective higher-order process calculus language (RChain)
 * [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
 * [DAML](http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions)
 * [Simvolio](https://apla.io/) (Apla blockchain platform)
@@ -71,7 +71,6 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Sigma-State](https://github.com/ScorexFoundation/sigmastate-interpreter) (Ergo)
 * [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - a strongly typed language in the ML family (Æternity)
 * [Varna](https://github.com/aeternity/protocol/blob/master/contracts/varna.md) - a non Turing complete high-level language (Æternity)
-* [Rholang](https://github.com/rchain/rchain/tree/dev/rholang) - a concurrent programming language, with a focus on message-passing and formally modeled by the ρ-calculus (RChain)
 
 # Other links
 
