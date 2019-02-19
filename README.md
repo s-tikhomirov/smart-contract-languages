@@ -15,7 +15,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 
 * [Bitcoin Script](https://en.bitcoin.it/wiki/Script) - a stack-based non Turing complete Forth-like language used to write script that determine whether a UTXO can be spent.
 * [Ivy](https://github.com/ivy-lang/ivy-bitcoin) - a non Turing complete higher-level language that compiles to Bitcoin Script ([announcement](https://blog.chain.com/ivy-for-bitcoin-a-smart-contract-language-that-compiles-to-bitcoin-script-bec06377141a))
-* [Simplicity](https://blockstream.com/2017/10/30/simplicity.html) - a typed functional programming language utilizing combinators [blog post](https://medium.com/@danrobinson/understanding-simplicity-implementing-a-smart-contract-language-in-30-lines-of-haskell-827521bfeb4d), [another one](https://iohk.io/blog/simplicity-and-michelson/)
+* [Simplicity](https://github.com/ElementsProject/simplicity) - a typed functional programming language utilizing combinators [blog post](https://medium.com/@danrobinson/understanding-simplicity-implementing-a-smart-contract-language-in-30-lines-of-haskell-827521bfeb4d), [another one](https://iohk.io/blog/simplicity-and-michelson/)
 * [BitML](https://eprint.iacr.org/2018/122) - a process calculus based language, compiles to Bitcoin script
 * [BALZaC](https://blockchain.unica.it/balzac/docs/) - a high-level language based on the formal model proposed in [[AB+18FC]](https://eprint.iacr.org/2017/1124.pdf)
 
