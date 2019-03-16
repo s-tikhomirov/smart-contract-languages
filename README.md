@@ -57,6 +57,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Michelson](http://www.michelson-lang.com/) - a stack based and strongly typed domain-specific language (Tezos)
 * [Liquidity](http://www.liquidity-lang.org/) - a high-level typed smart-contract language that strictly complies to Michelson security restrictions (Tezos)
 * [fi](https://github.com/TezTech/fi) (Tezos)
+* [LIGO](https://medium.com/tezos/introducing-ligo-a-new-smart-contract-language-for-tezos-233fa17f21c7) (Tezos)
 * [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano); compiles to Plutus Core ([video](https://youtu.be/IqA-mI2olFA)) 
 * [Marlowe](https://twitter.com/IOHK_Charles/status/963837766957137921) (Cardano)
 * [Rholang](https://github.com/rchain/rchain/tree/dev/rholang) - a reflective higher-order process calculus language (RChain)
