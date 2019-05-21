@@ -22,26 +22,33 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 
 # Ethereum
 
-* Ethereum bytecode - a Turing complete stack-based language executed by the Ethereum virtual machine (EVM)
-* [Solidity](https://solidity.readthedocs.io/en/develop/) - a high-level imperative statically typed language compiled to EVM
-* [LLL](https://lll-docs.readthedocs.io/en/latest/) - a "low-level Lisp-like language" compiled to EVM bytecode ([blog post](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23), [series of blog posts](http://blog.syrinx.net/))
+Last update in 2019:
+* [Ethereum bytecode](https://ethervm.io/) - a Turing complete stack-based language executed by the Ethereum virtual machine (EVM)
+* [Solidity](https://solidity.readthedocs.io/en/latest/) - a high-level imperative statically typed language compiled to EVM
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617))
-* [Bamboo](https://github.com/pirapira/bamboo) - a high-level "formal-verification-friendly" language compiled to EVM
-* [functional-solidity-language](https://github.com/raineorshine/functional-solidity-language) - pretty much self-descriptive :)
-* [eWASM](https://github.com/ewasm) - a restricted subset of [WebAssembly](http://webassembly.org/) for Ethereum contracts
-* Serpent - a Python-like high-level language compiled to EVM (deprecated due to [security issues with the compiler](https://blog.zeppelin.solutions/serpent-compiler-audit-3095d1257929))
-* Mutan - a C-like language compiled to EVM (deprecated)
-* [Idris](https://www.idris-lang.org/) - a pure functional language with dependent types; [Pettersson and Edström](https://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf) used it to write contracts that compile to EVM via Serpent
 * [Yul](https://solidity.readthedocs.io/en/latest/yul.html) (ex JULIA, ex IULIA) - an intermediate low-level language ([blog post](https://medium.com/@chriseth/writing-smart-contracts-in-iulia-2a5ba737c7f1))
-* [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e) - "a mechanical smart contract language"
-* [Pyramid](https://github.com/MichaelBurge/pyramid-scheme) - An EVM backend for SICP Scheme
-* [L4](https://youtu.be/Ufy8oM-Ou90) - a language "based on deontic modal logic", presented at Devcon 2 (Sep 2016)
-* [SolidityX](https://solidityx.org/) - a typed-superset of Solidity
-* [Flint](https://github.com/flintlang/flint)
-* [Lolisa](https://arxiv.org/abs/1803.09885) (subset of Solidity)
+* [eWASM](https://ewasm.readthedocs.io/en/mkdocs/) - a restricted subset of [WebAssembly](http://webassembly.org/) for Ethereum contracts
+* [Idris](https://www.idris-lang.org/) - a pure functional language with dependent types
+* [Flint](https://github.com/flintlang/flint) - a type-safe, contract-oriented programming language specifically designed for writing robust smart contracts on Ethereum
 * [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs
-* [Logikon](https://github.com/logikon-lang/logikon) - an experimental language for smart contracts
 * [Huff](https://github.com/AztecProtocol/huff) - an efficient low-level language with macros
+
+No updates after 2018:
+* [Bamboo](https://github.com/pirapira/bamboo) - a high-level "formal-verification-friendly" language compiled to EVM
+* [Pyramid](https://github.com/MichaelBurge/pyramid-scheme) - An EVM backend for SICP Scheme
+* [Lolisa](https://arxiv.org/abs/1803.09885) - subset of Solidity
+* [Logikon](https://github.com/logikon-lang/logikon) - an experimental language for smart contracts
+
+No updates after 2017:
+* [LLL](https://lll-docs.readthedocs.io/en/latest/) - a "low-level Lisp-like language" compiled to EVM bytecode ([blog post](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23), [series of blog posts](http://blog.syrinx.net/))
+* [functional-solidity-language](https://github.com/raineorshine/functional-solidity-language) - pretty much self-descriptive :)
+* [Serpent](https://github.com/ethereum/serpent/tree/ad53fa2a8a496448d58ef9137959b4a1e86b14d7) - a Python-like high-level language compiled to EVM (deprecated due to [security issues with the compiler](https://blog.zeppelin.solutions/serpent-compiler-audit-3095d1257929))
+* [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e) - "a mechanical smart contract language"
+* [SolidityX](https://solidityx.org/) - a typed-superset of Solidity
+
+No updates after 2016:
+* [L4](https://youtu.be/Ufy8oM-Ou90) - a language "based on deontic modal logic", presented at Devcon 2 (Sep 2016)
+* [Mutan](https://github.com/obscuren/mutan) - a C-like language compiled to EVM (deprecated)
 
 
 ## DSLs
