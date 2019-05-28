@@ -38,6 +38,7 @@ No updates after 2018:
 * [Pyramid](https://github.com/MichaelBurge/pyramid-scheme) - An EVM backend for SICP Scheme
 * [Lolisa](https://arxiv.org/abs/1803.09885) - subset of Solidity
 * [Logikon](https://github.com/logikon-lang/logikon) - an experimental language for smart contracts
+* [FSolidM](https://github.com/anmavrid/smart-contracts) - framework for [visual programming](https://cps-vo.org/group/smartcontracts) of Finite State Machines
 
 No updates after 2017:
 * [LLL](https://lll-docs.readthedocs.io/en/latest/) - a "low-level Lisp-like language" compiled to EVM bytecode ([blog post](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23), [series of blog posts](http://blog.syrinx.net/))
