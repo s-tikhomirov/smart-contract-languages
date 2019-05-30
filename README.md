@@ -53,6 +53,7 @@ No updates after 2016:
 
 ## DSLs
 
+* [Sandcastle](https://pegasys.tech/sandcastle-brings-sql-to-ethereum-smart-contracts/) - a SQL Ethereum smart contract language
 * [FSolidM](https://github.com/anmavrid/smart-contracts) - framework for [visual programming](https://cps-vo.org/group/smartcontracts) of Finite State Machines
 * [Findel](https://github.com/cryptolu/findel) - a non Turing complete financial DSL inspired by a [S.P.Jones' work](https://www.microsoft.com/en-us/research/publication/composing-contracts-an-adventure-in-financial-engineering/)
 * the language from [the paper](https://link.springer.com/article/10.1007/s12599-017-0507-z) by Egelund-Müller et al
