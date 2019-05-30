@@ -82,6 +82,7 @@ No updates after 2016:
 * [Sigma-State](https://github.com/ScorexFoundation/sigmastate-interpreter) (Ergo)
 * [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - a strongly typed language in the ML family (Æternity)
 * [Varna](https://github.com/aeternity/protocol/blob/master/contracts/varna.md) - a non Turing complete high-level language (Æternity)
+* [Fift](https://test.ton.org/fiftbase.pdf) - a stack-based general purpose programming language optimized for TON Blockchain smart contracts (TON)
 
 # Other links
 
