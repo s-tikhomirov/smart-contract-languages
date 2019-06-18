@@ -59,7 +59,7 @@ No updates after 2016:
 * the language from [the paper](https://link.springer.com/article/10.1007/s12599-017-0507-z) by Egelund-Müller et al
 * [Chorus](https://firmo.network/) - a financial contractual markup language by Firmo network
 * [ADICO](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2426572/Frantz2016_Smart_Contracts-DSL.pdf?sequence=3&isAllowed=y) - a domain-specific language to support the contract modeling process
-
+* [Ergo](https://github.com/accordproject/ergo) - Domain specific language for smart legal contracts
 
 # Other blockchains
 
