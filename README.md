@@ -63,6 +63,7 @@ No updates after 2016:
 
 # Other blockchains
 
+* [Move](https://developers.libra.org/docs/move-paper) - a safe and flexible programming language for the Libra Blockchain 
 * [Michelson](http://www.michelson-lang.com/) - a stack based and strongly typed domain-specific language (Tezos)
 * [Liquidity](http://www.liquidity-lang.org/) - a high-level typed smart-contract language that strictly complies to Michelson security restrictions (Tezos)
 * [fi](https://github.com/TezTech/fi) (Tezos)
