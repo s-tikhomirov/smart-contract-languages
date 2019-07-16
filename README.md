@@ -54,13 +54,13 @@ No updates after 2016:
 ## DSLs
 
 * [Alacrity](https://github.com/AlacrisIO/alacrity) - a DSL for simple, formally-verified DApps
+* [Ergo](https://github.com/accordproject/ergo) - Domain specific language for smart legal contracts
 * [Sandcastle](https://pegasys.tech/sandcastle-brings-sql-to-ethereum-smart-contracts/) - a SQL Ethereum smart contract language
 * [FSolidM](https://github.com/anmavrid/smart-contracts) - framework for [visual programming](https://cps-vo.org/group/smartcontracts) of Finite State Machines
 * [Findel](https://github.com/cryptolu/findel) - a non Turing complete financial DSL inspired by a [S.P.Jones' work](https://www.microsoft.com/en-us/research/publication/composing-contracts-an-adventure-in-financial-engineering/)
 * the language from [the paper](https://link.springer.com/article/10.1007/s12599-017-0507-z) by Egelund-Müller et al
 * [Chorus](https://firmo.network/) - a financial contractual markup language by Firmo network
 * [ADICO](https://papers.christopherfrantz.org/pdf/FrantzNowostawski2016_Smart_Contracts_nADICO.pdf) - a domain-specific language to support the contract modeling process
-
 
 # Other blockchains
 
@@ -85,6 +85,7 @@ No updates after 2016:
 * [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - a strongly typed language in the ML family (Æternity)
 * [Varna](https://github.com/aeternity/protocol/blob/master/contracts/varna.md) - a non Turing complete high-level language (Æternity)
 * [Fift](https://test.ton.org/fiftbase.pdf) - a stack-based general purpose programming language optimized for TON Blockchain smart contracts (TON)
+* [Clarity](https://blog.blockstack.org/introducing-clarity-the-language-for-predictable-smart-contracts/) (Blockstack)
 
 # Other links
 
