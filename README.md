@@ -26,7 +26,6 @@ Last update in 2019:
 * [Ethereum bytecode](https://ethervm.io/) - a Turing complete stack-based language executed by the Ethereum virtual machine (EVM)
 * [Solidity](https://solidity.readthedocs.io/en/latest/) - a high-level imperative statically typed language compiled to EVM
 * [Vyper](https://vyper.readthedocs.io/en/latest/) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617))
-* [Yul](https://solidity.readthedocs.io/en/latest/yul.html) (ex JULIA, ex IULIA) - an intermediate low-level language ([blog post](https://medium.com/@chriseth/writing-smart-contracts-in-iulia-2a5ba737c7f1))
 * [eWASM](https://ewasm.readthedocs.io/en/mkdocs/) - a restricted subset of [WebAssembly](http://webassembly.org/) for Ethereum contracts
 * [Idris](https://www.idris-lang.org/) - a pure functional language with dependent types
 * [Flint](https://github.com/flintlang/flint) - a type-safe, contract-oriented programming language specifically designed for writing robust smart contracts on Ethereum
@@ -50,6 +49,10 @@ No updates after 2016:
 * [L4](https://youtu.be/Ufy8oM-Ou90) - a language "based on deontic modal logic", presented at Devcon 2 (Sep 2016)
 * [Mutan](https://github.com/obscuren/mutan) - a C-like language compiled to EVM (deprecated)
 
+## IRs
+* [Yul](https://solidity.readthedocs.io/en/latest/yul.html) (ex JULIA, ex IULIA) - an intermediate language that can be compiled to bytecode for different backends.
+* [SlithIR](https://github.com/crytic/slither/wiki/SlithIR) - an intermediate representation that is used by Slither to enable high-precision analysis via a simple API. It supports taint and value tracking to enable detection of complex patterns.
+* [Elle](https://elle.readthedocs.io/en/latest/syntax.html#) - The Elle source language, also known as Elle-Core, captures structured programming abstractions and enables their translation to Ethereum EVM bytecode through a verified [compiler](https://elle.readthedocs.io/en/latest/implementation.html).
 
 ## DSLs
 
