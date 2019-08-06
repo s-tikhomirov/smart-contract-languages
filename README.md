@@ -89,6 +89,9 @@ No updates after 2016:
 * [Varna](https://github.com/aeternity/protocol/blob/master/contracts/varna.md) - a non Turing complete high-level language (Æternity)
 * [Fift](https://test.ton.org/fiftbase.pdf) - a stack-based general purpose programming language optimized for TON Blockchain smart contracts (TON)
 * [Clarity](https://blog.blockstack.org/introducing-clarity-the-language-for-predictable-smart-contracts/) (Blockstack)
+* [Ethermint](https://github.com/cosmos/ethermint) (Cosmos)
+* [Secure EcmaScript](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
+* [Kadenamint](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos
 
 # Other links
 
