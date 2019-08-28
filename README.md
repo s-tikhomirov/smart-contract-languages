@@ -18,6 +18,8 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Simplicity](https://github.com/ElementsProject/simplicity) - a typed functional programming language utilizing combinators [blog post](https://medium.com/@danrobinson/understanding-simplicity-implementing-a-smart-contract-language-in-30-lines-of-haskell-827521bfeb4d), [another one](https://iohk.io/blog/simplicity-and-michelson/)
 * [BitML](https://github.com/bitml-lang/bitml-compiler) - a process calculus based language, compiles to Bitcoin script ([article](https://eprint.iacr.org/2018/122))
 * [BALZaC](https://blockchain.unica.it/balzac/docs/) - a high-level language based on the formal model proposed in [[AB+18FC]](https://eprint.iacr.org/2017/1124.pdf)
+* [Miniscript](http://bitcoin.sipa.be/miniscript/) - a language for writing (a subset of) Bitcoin Scripts in a structured way, enabling analysis, composition, generic signing and more
+    * [Policy Language](http://diyhpl.us/wiki/transcripts/stanford-blockchain-conference/2019/miniscript/) - nicer language that compiles to Miniscript
 
 
 # Ethereum
