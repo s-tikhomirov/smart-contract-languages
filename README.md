@@ -83,7 +83,7 @@ No updates after 2016:
 * [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) - a non Turing complete [language](https://docs.wavesplatform.com/en/technical-details/ride-language.html) infulenced by Scala and F# (Waves)
 * [Scilla](https://scilla-lang.org) - an intermediate level language for verified smart contracts (Zilliqa)
 * [TxVM](https://github.com/chain/txvm) (Chain)
-* [IELE](https://iohk.io/blog/iele-a-new-virtual-machine-for-the-blockchain)
+* [IELE](https://github.com/runtimeverification/iele-semantics) - a variant of LLVM specialized to execute smart contracts on the blockchain
 * [Pact](http://kadena.io/docs/Kadena-PactWhitepaper.pdf) (Kadena)
 * [Ledger Design Language](https://eprint.iacr.org/2018/416) - a modeling language for describing public ledgers
 * [Sigma-State](https://github.com/ScorexFoundation/sigmastate-interpreter) (Ergo)
