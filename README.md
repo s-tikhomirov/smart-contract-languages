@@ -66,6 +66,7 @@ No updates after 2016:
 * the language from [the paper](https://link.springer.com/article/10.1007/s12599-017-0507-z) by Egelund-Müller et al
 * [Chorus](https://firmo.network/) - a financial contractual markup language by Firmo network
 * [ADICO](https://papers.christopherfrantz.org/pdf/FrantzNowostawski2016_Smart_Contracts_nADICO.pdf) - a domain-specific language to support the contract modeling process
+* [ink!](https://github.com/paritytech/ink) - an embedded DSL for writing WebAssembly based smart contracts using the Rust programming language and targeting Substrate blockchains. [Documentation](https://substrate.dev/docs/en/contracts/)
 
 # Other blockchains
 
@@ -93,7 +94,7 @@ No updates after 2016:
 * [Clarity](https://blog.blockstack.org/introducing-clarity-the-language-for-predictable-smart-contracts/) (Blockstack)
 * [Ethermint](https://github.com/cosmos/ethermint) (Cosmos)
 * [Secure EcmaScript](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
-* [Kadenamint](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos
+* [Kadenamint](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
 
 # Other links
 
