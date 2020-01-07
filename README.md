@@ -34,6 +34,7 @@ Last update in 2019:
 * [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs
 * [Huff](https://github.com/AztecProtocol/huff) - an efficient low-level language with macros
 * [Lira](https://www.etorox.com/lira/) - a declarative domain-specific language for defining simple yet highly complex financial contracts for EVM
+* [Sophia](http://demo.lexon.tech/)
 
 No updates after 2018:
 * [Bamboo](https://github.com/pirapira/bamboo) - a high-level "formal-verification-friendly" language compiled to EVM
