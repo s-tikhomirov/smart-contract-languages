@@ -63,7 +63,7 @@ No updates after 2016:
 * [Alacrity](https://github.com/AlacrisIO/alacrity) - a DSL for simple, formally-verified DApps
 * [Ergo](https://github.com/accordproject/ergo) - Domain specific language for smart legal contracts
 * [Sandcastle](https://pegasys.tech/sandcastle-brings-sql-to-ethereum-smart-contracts/) - a SQL Ethereum smart contract language
-* [FSolidM](https://github.com/anmavrid/smart-contracts) - framework for [visual programming](https://cps-vo.org/group/smartcontracts) of Finite State Machines
+* [FSolidM](https://github.com/anmavrid/smart-contracts/tree/FSMGenerator) - framework for [visual programming](https://cps-vo.org/group/smartcontracts) of Finite State Machines
 * [Findel](https://github.com/cryptolu/findel) - a non Turing complete financial DSL inspired by a [S.P.Jones' work](https://www.microsoft.com/en-us/research/publication/composing-contracts-an-adventure-in-financial-engineering/)
 * the language from [the paper](https://link.springer.com/article/10.1007/s12599-017-0507-z) by Egelund-Müller et al
 * [Chorus](https://firmo.network/) - a financial contractual markup language by Firmo network
@@ -77,11 +77,11 @@ No updates after 2016:
 * [Liquidity](http://www.liquidity-lang.org/) - a high-level typed smart-contract language that strictly complies to Michelson security restrictions (Tezos)
 * [fi](https://github.com/TezTech/fi) (Tezos)
 * [LIGO](https://medium.com/tezos/introducing-ligo-a-new-smart-contract-language-for-tezos-233fa17f21c7) (Tezos)
-* [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano); compiles to Plutus Core ([video](https://youtu.be/IqA-mI2olFA)) 
+* [Plutus](https://github.com/input-output-hk/plutus) - a pure functional language with user-defined data types and polymorphism (Cardano); compiles to Plutus Core ([video](https://youtu.be/IqA-mI2olFA)) 
 * [Marlowe](https://iohk.io/en/blog/posts/2018/12/11/marlowe-financial-contracts-on-blockchain/) - a domain-specific language for smart contract language embedded in Plutus (Cardano)
 * [Rholang](https://github.com/rchain/rchain/tree/master/rholang) - a reflective higher-order process calculus language (RChain)
 * [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
-* [DAML](http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions)
+* [DAML](https://daml.com/) - a smart contract language of Digital Asset
 * [Simvolio](https://apla.io/) (Apla blockchain platform)
 * [RIDE](https://wavesplatform.com/files/docs/white_paper_waves_smart_contracts.pdf) - a non Turing complete [language](https://docs.wavesplatform.com/en/technical-details/ride-language.html) infulenced by Scala and F# (Waves)
 * [Scilla](https://scilla-lang.org) - an intermediate level language for verified smart contracts (Zilliqa)
