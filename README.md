@@ -53,6 +53,7 @@ No updates after 2016:
 
 ## IRs
 * [Yul](https://solidity.readthedocs.io/en/latest/yul.html) (ex JULIA, ex IULIA) - an intermediate language that can be compiled to bytecode for different backends.
+* [Yul+](https://github.com/FuelLabs/yulp) - a low-level, highly efficient extension to Yul
 * [SlithIR](https://github.com/crytic/slither/wiki/SlithIR) - an intermediate representation that is used by Slither to enable high-precision analysis via a simple API. It supports taint and value tracking to enable detection of complex patterns.
 * [Elle](https://elle.readthedocs.io/en/latest/syntax.html#) - The Elle source language, also known as Elle-Core, captures structured programming abstractions and enables their translation to Ethereum EVM bytecode through a verified [compiler](https://elle.readthedocs.io/en/latest/implementation.html).
 
@@ -76,8 +77,8 @@ No updates after 2016:
 * [fi](https://github.com/TezTech/fi) (Tezos)
 * [LIGO](https://medium.com/tezos/introducing-ligo-a-new-smart-contract-language-for-tezos-233fa17f21c7) (Tezos)
 * [Plutus](https://github.com/input-output-hk/plutus-prototype) - a pure functional language with user-defined data types and polymorphism (Cardano); compiles to Plutus Core ([video](https://youtu.be/IqA-mI2olFA)) 
-* [Marlowe](https://twitter.com/IOHK_Charles/status/963837766957137921) (Cardano)
-* [Rholang](https://github.com/rchain/rchain/tree/dev/rholang) - a reflective higher-order process calculus language (RChain)
+* [Marlowe](https://iohk.io/en/blog/posts/2018/12/11/marlowe-financial-contracts-on-blockchain/) - a domain-specific language for smart contract language embedded in Plutus (Cardano)
+* [Rholang](https://github.com/rchain/rchain/tree/master/rholang) - a reflective higher-order process calculus language (RChain)
 * [Obsidian](https://mcoblenz.github.io/Obsidian/) - a state-oriented language with linear types
 * [DAML](http://hub.digitalasset.com/blog/introducing-the-digital-asset-modeling-language-a-powerful-alternative-to-smart-contracts-for-financial-institutions)
 * [Simvolio](https://apla.io/) (Apla blockchain platform)
@@ -85,7 +86,7 @@ No updates after 2016:
 * [Scilla](https://scilla-lang.org) - an intermediate level language for verified smart contracts (Zilliqa)
 * [TxVM](https://github.com/chain/txvm) (Chain)
 * [IELE](https://github.com/runtimeverification/iele-semantics) - a variant of LLVM specialized to execute smart contracts on the blockchain
-* [Pact](http://kadena.io/docs/Kadena-PactWhitepaper.pdf) (Kadena)
+* [Pact](https://pact-language.readthedocs.io/en/stable/) - a smart contract language with a Lisp syntax but Haskell-like types (Kadena)
 * [Ledger Design Language](https://eprint.iacr.org/2018/416) - a modeling language for describing public ledgers
 * [Sigma-State](https://github.com/ScorexFoundation/sigmastate-interpreter) (Ergo)
 * [Sophia](https://github.com/aeternity/protocol/blob/master/contracts/sophia.md) - a strongly typed language in the ML family (Æternity)
