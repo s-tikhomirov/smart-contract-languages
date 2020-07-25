@@ -33,6 +33,7 @@ Last update in 2019:
 * [Flint](https://github.com/flintlang/flint) - a type-safe, contract-oriented programming language specifically designed for writing robust smart contracts on Ethereum
 * [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs
 * [Huff](https://github.com/AztecProtocol/huff) - an efficient low-level language with macros
+* [Lira](https://www.etorox.com/lira/) - a declarative domain-specific language for defining simple yet highly complex financial contracts for EVM
 
 No updates after 2018:
 * [Bamboo](https://github.com/pirapira/bamboo) - a high-level "formal-verification-friendly" language compiled to EVM
