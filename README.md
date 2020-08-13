@@ -20,6 +20,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [BALZaC](https://blockchain.unica.it/balzac/docs/) - a high-level language based on the formal model proposed in [[AB+18FC]](https://eprint.iacr.org/2017/1124.pdf)
 * [Miniscript](http://bitcoin.sipa.be/miniscript/) - a language for writing (a subset of) Bitcoin Scripts in a structured way, enabling analysis, composition, generic signing and more
     * [Policy Language](http://diyhpl.us/wiki/transcripts/stanford-blockchain-conference/2019/miniscript/) - nicer language that compiles to Miniscript
+* [Sapio](https://www.coindesk.com/this-new-coding-language-could-help-unlock-bitcoins-smart-contract-potential)
 
 
 # Ethereum
