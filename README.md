@@ -21,6 +21,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Miniscript](http://bitcoin.sipa.be/miniscript/) - a language for writing (a subset of) Bitcoin Scripts in a structured way, enabling analysis, composition, generic signing and more
     * [Policy Language](http://diyhpl.us/wiki/transcripts/stanford-blockchain-conference/2019/miniscript/) - nicer language that compiles to Miniscript
 * [Sapio](https://www.coindesk.com/this-new-coding-language-could-help-unlock-bitcoins-smart-contract-potential)
+* [Minsc](https://min.sc/) - a high-level scripting language for expressing Bitcoin Script spending conditions based on Miniscript Policy
 
 
 # Ethereum
