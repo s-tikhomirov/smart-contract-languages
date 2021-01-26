@@ -101,6 +101,7 @@ No updates after 2016:
 * [Ethermint](https://github.com/cosmos/ethermint) (Cosmos)
 * [Secure EcmaScript](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
 * [Kadenamint](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
+* [Rell](https://rell.chromia.com/en/master/) (Chromia)
 
 # Other links
 
