@@ -73,6 +73,7 @@ No updates after 2016:
 * [Chorus](https://firmo.network/) - a financial contractual markup language by Firmo network
 * [ADICO](https://papers.christopherfrantz.org/pdf/FrantzNowostawski2016_Smart_Contracts_nADICO.pdf) - a domain-specific language to support the contract modeling process
 * [ink!](https://github.com/paritytech/ink) - an embedded DSL for writing WebAssembly based smart contracts using the Rust programming language and targeting Substrate blockchains. [Documentation](https://substrate.dev/docs/en/contracts/)
+* [Reach](https://github.com/reach-sh/reach-lang) - a DSL for trustworthy DApps that enables junior developers without years of experience. [Documentation](https://docs.reach.sh/)
 
 # Other blockchains
 
