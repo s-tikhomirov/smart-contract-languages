@@ -103,6 +103,7 @@ No updates after 2016:
 * [Secure EcmaScript](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
 * [Kadenamint](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
 * [Rell](https://rell.chromia.com/en/master/) (Chromia)
+* [Solang](https://github.com/hyperledger-labs/solang) - a new Solidity compiler written in rust which uses llvm as the compiler backend. [Solang](https://solang.readthedocs.io/en/latest/) targets Substrate, Solana, ewasm, and Sawtooth. It is source compatible with Solidity 0.7
 
 # Other links
 
