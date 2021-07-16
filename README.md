@@ -28,16 +28,16 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 
 Last update in 2020:
 * [Ethereum bytecode](https://ethervm.io/) - a Turing complete stack-based language executed by the Ethereum virtual machine (EVM)
-* [Solidity](https://solidity.readthedocs.io/en/latest/) - a high-level imperative statically typed language compiled to EVM
-* [Vyper](https://vyper.readthedocs.io/en/latest/) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617))
-* [Fe](https://github.com/ethereum/fe) - a language inspired by Vyper aiming to achieve its goals
-* [eWASM](https://ewasm.readthedocs.io/en/mkdocs/) - a restricted subset of [WebAssembly](http://webassembly.org/) for Ethereum contracts
-* [Idris](https://www.idris-lang.org/) - a pure functional language with dependent types
+* [Solidity](https://github.com/ethereum/solidity) - a high-level imperative statically typed language compiled to EVM. [Docs](https://solidity.readthedocs.io/en/latest/)
+* [Vyper](https://github.com/vyperlang/vyper) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617)). [Docs](https://vyper.readthedocs.io/en/latest/)
+* [Fe](https://github.com/ethereum/fe) - a language inspired by Vyper aiming to achieve its goals. [Docs](https://fe.ethereum.org/docs/index.html)
+* [eWASM](https://github.com/ewasm/design) - a restricted subset of [WebAssembly](http://webassembly.org/) for Ethereum contracts. [Docs](https://ewasm.readthedocs.io/en/mkdocs/)
+* [Idris](https://github.com/idris-lang/Idris2) - a pure functional language with dependent types. [Docs](http://docs.idris-lang.org/en/latest/)
 * [Flint](https://github.com/flintlang/flint) - a type-safe, contract-oriented programming language specifically designed for writing robust smart contracts on Ethereum
 * [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs
 * [Huff](https://github.com/AztecProtocol/huff) - an efficient low-level language with macros
 * [Lira](https://www.etorox.com/lira/) - a declarative domain-specific language for defining simple yet highly complex financial contracts for EVM
-* [Zinc](https://github.com/matter-labs/zinc) - a language to write zero-knowledge circuits and ZKP-based smart contracts
+* [Zinc](https://github.com/matter-labs/zinc) - a language to write zero-knowledge circuits and ZKP-based smart contracts. [Docs](https://zinc.zksync.io/)
 
 No updates after 2018:
 * [Bamboo](https://github.com/pirapira/bamboo) - a high-level "formal-verification-friendly" language compiled to EVM
