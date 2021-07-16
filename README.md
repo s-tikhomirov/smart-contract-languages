@@ -50,7 +50,7 @@ No updates after 2017:
 * [functional-solidity-language](https://github.com/raineorshine/functional-solidity-language) - pretty much self-descriptive :)
 * [Serpent](https://github.com/ethereum/serpent/tree/ad53fa2a8a496448d58ef9137959b4a1e86b14d7) - a Python-like high-level language compiled to EVM (deprecated due to [security issues with the compiler](https://blog.zeppelin.solutions/serpent-compiler-audit-3095d1257929))
 * [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e) - "a mechanical smart contract language"
-* [SolidityX](https://solidityx.org/) - a typed-superset of Solidity
+* [SolidityX](https://github.com/loomnetwork/solidityx-js/network) - a typed-superset of Solidity
 
 No updates after 2016:
 * [L4](https://youtu.be/Ufy8oM-Ou90) - a language "based on deontic modal logic", presented at Devcon 2 (Sep 2016)
