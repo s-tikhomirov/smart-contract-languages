@@ -46,7 +46,7 @@ No updates after 2018:
 * [Logikon](https://github.com/logikon-lang/logikon) - an experimental language for smart contracts
 
 No updates after 2017:
-* [LLL](https://lll-docs.readthedocs.io/en/latest/) - a "low-level Lisp-like language" compiled to EVM bytecode ([blog post](https://media.consensys.net/an-introduction-to-lll-for-ethereum-smart-contract-development-e26e38ea6c23), [series of blog posts](http://blog.syrinx.net/))
+* [LLL](https://lll-docs.readthedocs.io/en/latest/) - a "low-level Lisp-like language" compiled to EVM bytecode ([discontinued](https://github.com/ethereum/solidity/blob/9abaa35d579ac982e77c811bbd007008f66cfd2e/Changelog.md#062-2020-01-27))
 * [functional-solidity-language](https://github.com/raineorshine/functional-solidity-language) - pretty much self-descriptive :)
 * [Serpent](https://github.com/ethereum/serpent/tree/ad53fa2a8a496448d58ef9137959b4a1e86b14d7) - a Python-like high-level language compiled to EVM (deprecated due to [security issues with the compiler](https://blog.zeppelin.solutions/serpent-compiler-audit-3095d1257929))
 * [Babbage](https://medium.com/@chriseth/babbage-a-mechanical-smart-contract-language-5c8329ec5a0e) - "a mechanical smart contract language"
