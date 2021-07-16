@@ -26,7 +26,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 
 # Ethereum
 
-Last update in 2020:
+Active:
 * [Ethereum bytecode](https://ethervm.io/) - a Turing complete stack-based language executed by the Ethereum virtual machine (EVM)
 * [Solidity](https://github.com/ethereum/solidity) - a high-level imperative statically typed language compiled to EVM. [Docs](https://solidity.readthedocs.io/en/latest/)
 * [Vyper](https://github.com/vyperlang/vyper) - a high-level language compiled to EVM ([announcement of formal tools from RV](https://runtimeverification.com/blog/?p=617)). [Docs](https://vyper.readthedocs.io/en/latest/)
