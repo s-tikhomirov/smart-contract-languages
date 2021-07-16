@@ -36,7 +36,7 @@ Last update in 2020:
 * [Flint](https://github.com/flintlang/flint) - a type-safe, contract-oriented programming language specifically designed for writing robust smart contracts on Ethereum
 * [Formality](https://github.com/MaiaVictor/Formality) - an efficient programming language featuring formal proofs
 * [Huff](https://github.com/AztecProtocol/huff) - an efficient low-level language with macros
-* [Lira](https://www.etorox.com/lira/) - a declarative domain-specific language for defining simple yet highly complex financial contracts for EVM
+* [Lira](https://github.com/etoroxlabs/lira) - a declarative domain-specific language for defining simple yet highly complex financial contracts for EVM
 * [Zinc](https://github.com/matter-labs/zinc) - a language to write zero-knowledge circuits and ZKP-based smart contracts. [Docs](https://zinc.zksync.io/)
 
 No updates after 2018:
