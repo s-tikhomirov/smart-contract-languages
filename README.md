@@ -38,6 +38,7 @@ Active:
 * [Huff](https://github.com/AztecProtocol/huff) - an efficient low-level language with macros
 * [Lira](https://github.com/etoroxlabs/lira) - a declarative domain-specific language for defining simple yet highly complex financial contracts for EVM
 * [Zinc](https://github.com/matter-labs/zinc) - a language to write zero-knowledge circuits and ZKP-based smart contracts. [Docs](https://zinc.zksync.io/)
+* [Sway](https://www.youtube.com/watch?v=S52ZsZ7rNOo) - a Rust-based Smart Contract Language
 
 No updates after 2018:
 * [Bamboo](https://github.com/pirapira/bamboo) - a high-level "formal-verification-friendly" language compiled to EVM
