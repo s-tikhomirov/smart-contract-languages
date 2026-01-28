@@ -24,6 +24,7 @@ Programming languages differ on multiple dimensions, such as [paradigm](https://
 * [Sapio](https://www.coindesk.com/this-new-coding-language-could-help-unlock-bitcoins-smart-contract-potential)
 * [Minsc](https://min.sc/) - a high-level scripting language for expressing Bitcoin Script spending conditions based on Miniscript Policy
 * [Bithoven](https://github.com/ChrisCho-H/bithoven) -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
+* [CashScript](https://github.com/CashScript/cashscript) - a high-level language for smart contracts on Bitcoin Cash with covenant functionality. [Docs](https://cashscript.org/)
 
 
 # Ethereum
