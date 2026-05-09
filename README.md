@@ -106,7 +106,7 @@ No updates after 2016:
 * [Ethermint](https://github.com/cosmos/ethermint) (Cosmos)
 * [Secure EcmaScript](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
 * [Kadenamint](https://www.coindesk.com/cosmos-will-have-3-coding-languages-heres-why-that-matters-for-ethereum) (Cosmos)
-* [Rell](https://rell.chromia.com/en/master/) (Chromia)
+* [Rell](https://docs.chromia.com/rell/rell-intro) - Chromia's SQL-inspired language for writing blockchain dapps.
 * [Solang](https://github.com/hyperledger-labs/solang) - a new Solidity compiler written in rust which uses llvm as the compiler backend. [Solang](https://solang.readthedocs.io/en/latest/) targets Substrate, Solana, ewasm, and Sawtooth. It is source compatible with Solidity 0.7
 * [Convex Lisp](https://convex.world/cvm/data-types) - a Clojure-inspired decentralised smart contract language (ConvexVM)
 
